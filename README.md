@@ -21,7 +21,7 @@ The analysis is presented through an interactive Tableau dashboard, which visual
 The synthetic dataset simulates user behavior and monetization data for 1000 users. It includes the following attributes:
 
 - UserID: Unique identifier for each user.
-- SubscriptionTier: Subscription type (Free, Basic, Premium).
+- SubscriptionTier: Subscription type (Free, Super, MAX).
 - InAppPurchases: Total revenue from in-app purchases in USD.
 - AdImpressions: Number of ads shown to the user.
 - LearningStreak: Number of consecutive days the user has used the app.

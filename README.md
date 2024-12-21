@@ -12,9 +12,9 @@ Course Preferences: Analysis of course preferences based on geographical region,
 Monetization Insights: Understanding of how user behavior influences revenue generation, including ad impressions and in-app purchases
 
 ## Technologies Used
-Python: Used to generate synthetic data for user behavior and monetization.
-Tableau: Used for visualizing the data and creating an interactive dashboard.
-Pandas & Numpy: For data manipulation and generating synthetic data.
+- Python: Used to generate synthetic data for user behavior and monetization.
+- Tableau: Used for visualizing the data and creating an interactive dashboard.
+- Pandas & Numpy: For data manipulation and generating synthetic data.
 
 ## Dataset Overview
 The synthetic dataset simulates user behavior and monetization data for 1000 users. It includes the following attributes:

@@ -1,4 +1,5 @@
-# Duolingo Monetization & Revenue Insights using Tableau
+# Language Learning App - Monetization & Revenue Insights using Tableau
+## Disclaimer: This project is not affiliated with or endorsed by Duolingo. The dataset used is synthetic and does not represent real user data from any company.
 ## Project Overview
 This project involves the analysis and visualization of user engagement and monetization patterns across different subscription tiers (Free, Super, MAX) and courses (English, Spanish, German, etc.) in the context of Duolingo. The goal is to uncover key insights into user behavior and revenue generation, to help make data-driven decisions to enhance user retention and maximize monetization strategies.
 

@@ -34,4 +34,4 @@ Course Preferences: Spanish was the most popular course overall, with the highes
 Engagement Metrics: Free users exhibited higher weekly active minutes compared to Premium users, indicating potential areas to improve conversion rates for Free users.
 
 ## Dashboard
-![Image Alt Text](images/your-image.png)
+![Image Alt Text](Dashboard image.png)

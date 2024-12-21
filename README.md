@@ -34,5 +34,5 @@ Course Preferences: Spanish was the most popular course overall, with the highes
 Engagement Metrics: Free users exhibited higher weekly active minutes compared to Premium users, indicating potential areas to improve conversion rates for Free users.
 
 ## Dashboard
-![Duolingo Tableau Dashboard](Duolingo-Tableau-Dashboard/Dashboard_image.png)
+![image](https://github.com/user-attachments/assets/f14251da-072d-430c-9087-3ae1e21b1e34)
 
